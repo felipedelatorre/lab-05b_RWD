@@ -1,2 +1,3 @@
-@import url('./layouts/mobile.css') (min-width: 481px) and (max-width: 767px);
-@import url('./layouts/desktop.css') (min-width: 768px); 
+@import url('./layouts/mobile.css') (max-width: 479px);
+@import url('./layouts/tablet.css') (min-width: 480px) and (max-width: 990px);
+@import url('./layouts/desktop.css') (min-width: 991px); 
